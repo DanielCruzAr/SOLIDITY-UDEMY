@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"VOTACIONES/Uint2String.sol": "Uint2String"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"VOTACIONES/Uint2String.sol": {
+			"keccak256": "0xb5e453227520b22a15727a8866a99e533166ed83f3a5048ad30954a54820715b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4e7f5e8824818ccdf6468e6b1f60e34d7ccb26783ec5f0c7b6dab2464e7d57c8",
+				"dweb:/ipfs/QmW6GizjFJzPaJMpJ2AG3WLPstY6JhP3b4QoidRG5v9RVL"
+			]
+		}
+	},
+	"version": 1
+}
